@@ -65,3 +65,4 @@ Designed to support future upgrades:
 
 **Network:** Stellar (Soroban)  
 **Contract Address:**  CD2GYE442VUAVELSLUSY6QIRY6Q2UTX3JX5URRS4IUHUMIM3WAH5LLJJ
+https://stellar.expert/explorer/testnet/contract/CD2GYE442VUAVELSLUSY6QIRY6Q2UTX3JX5URRS4IUHUMIM3WAH5LLJJ
