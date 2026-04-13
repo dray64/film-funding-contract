@@ -1,5 +1,4 @@
 # Film-Funding-Contract
-<img width="1899" height="921" alt="image" src="https://github.com/user-attachments/assets/039ef0b2-4d0a-4a34-8068-7db8393bdd6f" />
 
 # 🎬 ChainCinema — Decentralized Film Funding on Stellar
 
@@ -10,6 +9,7 @@ ChainCinema is a fully permissionless decentralized application (DApp) built on 
 By leveraging blockchain technology, ChainCinema ensures transparency, trustless execution, and open participation — allowing anyone to create, fund, and participate in film projects.
 
 ---
+<img width="1899" height="921" alt="image" src="https://github.com/user-attachments/assets/039ef0b2-4d0a-4a34-8068-7db8393bdd6f" />
 
 ## 🚀 What It Does
 
